@@ -1,0 +1,56 @@
+footer{
+    background-color: rgb(249, 143, 255);
+    margin: 0px;
+    width: 100%;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.policy{
+    display: grid;
+    justify-content: center;
+}
+
+.policy h3{
+    display: grid;
+    justify-content: center;
+}
+
+.tnc{
+    display: flex;
+}
+
+li{
+    list-style: none;
+    padding: 0px 15px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+.Support img{
+    padding: 0 5px;
+    width: 25px;
+}
+
+footer li{
+    font-size: small;
+}
+
+.eml{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+.eml input{
+    width: 100%;
+    /* display: flex; */
+    margin: 0 10px;
+    flex-grow: 1;
+}
